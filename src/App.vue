@@ -111,7 +111,7 @@ onMounted(() => {
         >
           -
         </button>
-        <button class="button" @click="removeAnime(anime)">Remover</button>
+        <button class="button" @click="removeAnime(anime)">DEL</button>
       </div>
     </div>
   </main>
